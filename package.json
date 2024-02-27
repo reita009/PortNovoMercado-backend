@@ -4,7 +4,7 @@
   "description": "Processo backend da aplicação de portfólio",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon src/server.js"
+    "start": "nodemon src/index.js"
   },
   "author": "Julio Santana",
   "license": "ISC",
