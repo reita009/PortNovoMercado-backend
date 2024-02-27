@@ -2,9 +2,8 @@
   "name": "portnovomercado-backend",
   "version": "1.0.0",
   "description": "Processo backend da aplicação de portfólio",
-  "main": "index.js",
   "scripts": {
-    "start": "nodemon src/index.js"
+    "start": "node src/index.js"
   },
   "author": "Julio Santana",
   "license": "ISC",
